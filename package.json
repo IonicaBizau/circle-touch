@@ -1,0 +1,71 @@
+{
+  "name": "circle-touch",
+  "version": "1.0.0",
+  "description": "A game I wrote in 2011, running in browser under em-dosbox.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "c++",
+    "old",
+    "ms-dos"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/circle-touch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/circle-touch/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/circle-touch#readme",
+  "blah": {
+    "example": [
+      {
+        "p": [
+          [
+            "I wrote this game back in 2011, in C++, using",
+            "[Borldand C++](https://en.wikipedia.org/wiki/Borland_C%2B%2B) (that",
+            "[blueeeee editor](https://winworldpc.com/res/img/screenshots/20-cb5d8e11ea5ade2ec05bb6c76ff7895d-Borland%20CPP%202.0%20-%20About.png)).",
+            "The bad news is that I lost the source code for this game. The good news is that I still have the binaries and, thanks",
+            "to [em-dosbox](https://github.com/dreamlayers/em-dosbox/), we can play the game in the browser."
+          ],
+          "The original game was in Romanian language, but using a hex editor I translated everything in English. :tada:"
+        ]
+      },
+      {
+        "h2": "How to play"
+      },
+      {
+        "p": "Click [here](http://ionicabizau.github.io/circle-touch) (or any of the following images) to open the game in your browser."
+      },
+      {
+        "h3": "Main menu"
+      },
+      {
+        "p": [
+          "This is the welcome screen. Select *Start*, enter your name, press <kbd>Enter</kbd> twice and enjoy! :grin:",
+          "[![](http://i.imgur.com/WnkMZ76.png)](http://ionicabizau.github.io/touch-circle)"
+        ]
+      },
+      {
+        "h3": "Playing the game"
+      },
+      {
+        "p": "[![](http://i.imgur.com/fch85re.png)](http://ionicabizau.github.io/touch-circle)"
+      },
+      {
+        "h3": "Setup"
+      },
+      {
+        "p": [
+          "You can change the game colors using `SETUP.EXE`. Exit the game and run `SETUP.EXE`. Enter your options there and save them. Then execute `START.EXE` to start the game again.",
+          "[![](http://i.imgur.com/WJ5Ybnp.png)](http://ionicabizau.github.io/touch-circle)"
+        ]
+      }
+    ]
+  }
+}
