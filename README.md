@@ -18,17 +18,17 @@ Click [here](http://ionicabizau.github.io/circle-touch) (or any of the following
 
 This is the welcome screen. Select *Start*, enter your name, press <kbd>Enter</kbd> twice and enjoy! :grin:
 
-[![](http://i.imgur.com/DEKDzG8.png)](http://ionicabizau.github.io/touch-circle)
+[![](http://i.imgur.com/DEKDzG8.png)](http://ionicabizau.github.io/circle-touch)
 
 ### Playing the game
 
-[![](http://i.imgur.com/1s4gr2D.png)](http://ionicabizau.github.io/touch-circle)
+[![](http://i.imgur.com/1s4gr2D.png)](http://ionicabizau.github.io/circle-touch)
 
 ### Setup
 
 You can change the game colors using `SETUP.EXE`. Exit the game and run `SETUP.EXE`. Enter your options there and save them. Then execute `START.EXE` to start the game again.
 
-[![](http://i.imgur.com/WJ5Ybnp.png)](http://ionicabizau.github.io/touch-circle)
+[![](http://i.imgur.com/WJ5Ybnp.png)](http://ionicabizau.github.io/circle-touch)
 
 ## How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
