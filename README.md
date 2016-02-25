@@ -18,11 +18,11 @@ Click [here](http://ionicabizau.github.io/circle-touch) (or any of the following
 
 This is the welcome screen. Select *Start*, enter your name, press <kbd>Enter</kbd> twice and enjoy! :grin:
 
-[![](http://i.imgur.com/WnkMZ76.png)](http://ionicabizau.github.io/touch-circle)
+[![](http://i.imgur.com/DEKDzG8.png)](http://ionicabizau.github.io/touch-circle)
 
 ### Playing the game
 
-[![](http://i.imgur.com/fch85re.png)](http://ionicabizau.github.io/touch-circle)
+[![](http://i.imgur.com/1s4gr2D.png)](http://ionicabizau.github.io/touch-circle)
 
 ### Setup
 
