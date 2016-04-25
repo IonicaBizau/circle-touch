@@ -1,6 +1,6 @@
 {
   "name": "circle-touch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A game I wrote in 2011, running in browser under em-dosbox.",
   "main": "lib/index.js",
   "scripts": {
@@ -67,5 +67,16 @@
         ]
       }
     ]
-  }
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
