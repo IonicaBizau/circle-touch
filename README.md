@@ -7,13 +7,9 @@
 
 
 I wrote this game back in 2011, in C++, using
-
 [Borldand C++](https://en.wikipedia.org/wiki/Borland_C%2B%2B) (that
-
 [blueeeee editor](https://winworldpc.com/res/img/screenshots/20-cb5d8e11ea5ade2ec05bb6c76ff7895d-Borland%20CPP%202.0%20-%20About.png)).
-
 The bad news is that I lost the source code for this game. The good news is that I still have the binaries and, thanks
-
 to [em-dosbox](https://github.com/dreamlayers/em-dosbox/), we can play the game in the browser.
 
 The original game was in Romanian language, but using a hex editor I translated everything in English. :tada:
